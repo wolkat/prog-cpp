@@ -1,4 +1,4 @@
-prog-cpp
+[PROG] C++
 ========
 
 Ćwiczenia z programowania w C++
