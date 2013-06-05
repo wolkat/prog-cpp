@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
  
-float fun(float x) {
+float funkcja(float x) {
 return x*x*x+2*x*x+2;
 }
  
@@ -21,7 +21,7 @@ x=p+d/2;
 calka = 0;
 while (x < k) 
 {
-calka += d*(fun(x));
+calka += d*(funkcja(x));
 x = x+d;
 }
  
